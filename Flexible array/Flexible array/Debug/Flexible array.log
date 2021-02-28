@@ -1,0 +1,7 @@
+﻿  test.c
+E:\代码\VS\Flexible array\Flexible array\test.c(58,34): warning C4013: “malloc”未定义；假设外部返回 int
+E:\代码\VS\Flexible array\Flexible array\test.c(59,35): warning C4047: “=”:“int *”与“int”的间接级别不同
+E:\代码\VS\Flexible array\Flexible array\test.c(71,20): warning C4013: “realloc”未定义；假设外部返回 int
+E:\代码\VS\Flexible array\Flexible array\test.c(85,6): warning C4013: “free”未定义；假设外部返回 int
+E:\代码\VS\Flexible array\Flexible array\test.c(71,1): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+  Flexible array.vcxproj -> E:\代码\VS\Flexible array\Debug\test_2_28.exe
